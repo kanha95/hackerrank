@@ -18,7 +18,7 @@ public class Hack1 {
         
         for(int j=0;j<c;j++){
       for(int i=j;i<t;i=i+c){
-         if(i<t)
+        
           System.out.print(s.charAt(i));
       }
       System.out.print(" ");
