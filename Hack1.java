@@ -22,6 +22,8 @@ public class Hack1 {
           System.out.print(s.charAt(i));
       }
       System.out.print(" ");
+        
+            
         }
     }
     
